@@ -79,7 +79,9 @@ pip install -r requirements.txt
 
 ### Demo
 
-![Example output](https://raw.githubusercontent.com/SilasHelgesson/Prime_polar_coordinates/main/example.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SilasHelgesson/Prime_polar_coordinates/main/example.png" alt="Example output">
+</p>
 
 ### License
 
