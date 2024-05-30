@@ -37,9 +37,9 @@ pip install -r requirements.txt
    python script.py
    ```
 
-### Bild
+### Demo
 
-![Bildbeschreibung](path/to/image.png)
+![Beispiel](https://raw.githubusercontent.com/SilasHelgesson/Prime_polar_coordinates/main/example.png)
 
 ## English 🇺🇸
 
@@ -76,9 +76,9 @@ pip install -r requirements.txt
    python script.py
    ```
 
-### Image
+### Demo
 
-![Image Description](path/to/image.png)
+![Example output](https://raw.githubusercontent.com/SilasHelgesson/Prime_polar_coordinates/main/example.png)
 
 ### License
 
