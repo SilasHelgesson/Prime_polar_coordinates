@@ -38,8 +38,9 @@ pip install -r requirements.txt
    ```
 
 ### Demo
-
-![Beispiel](https://raw.githubusercontent.com/SilasHelgesson/Prime_polar_coordinates/main/example.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SilasHelgesson/Prime_polar_coordinates/main/example.png" alt="Beispiel">
+</p>
 
 ## English 🇺🇸
 
