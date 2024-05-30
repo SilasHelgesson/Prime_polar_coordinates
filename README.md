@@ -10,7 +10,7 @@ Dieses Python-Skript visualisiert die Spiralen, die entstehen, wenn man Primzahl
 
 ### Voraussetzungen
 
-Stellen Sie sicher, dass Sie alle erforderlichen Pakete installiert haben. Diese sind in der Datei `requirements.txt` aufgeführt.
+Stellen Sie sicher, dass Sie alle erforderlichen Pakete installiert haben sowie einen Python 3.x Interpreter. Diese sind in der Datei `requirements.txt` aufgeführt.
 
 ```bash
 pip install -r requirements.txt
